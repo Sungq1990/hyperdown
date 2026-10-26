@@ -1,0 +1,15 @@
+# 运行状态：包含 access / refresh token
+.hyperdown_checkin.json
+*.hyperdown_checkin.json
+*_checkin.json
+
+# 客户端本地加密文件（含登录态）
+session.json
+netdisk-cookies.json
+
+# 日志与临时文件
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db
